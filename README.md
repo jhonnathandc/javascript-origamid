@@ -2,6 +2,8 @@
 
 Aqui neste repositório estão os exercícios feitos nas aulas da [Origamid](https://www.origamid.com).
 
+OBS: Existem arquivos HTML e CSS pois está sendo manipulado um site em alguns momentos.
+
 ## Stack
 
 - JavaScript
